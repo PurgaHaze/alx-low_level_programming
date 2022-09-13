@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 /*
- * Print_F-printing usinf printf
+ * main - Entry poin
+ * 
  * void: the string itself
+ *
  * Return: Always 0 (Success)
  */
 int Print_F(void)
