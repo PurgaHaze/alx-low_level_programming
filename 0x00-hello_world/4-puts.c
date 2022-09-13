@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
- * main - Entry point
+ *main - prints a string
  *
- *void:Prints a string
+ *@void:string to be printed
  *
  * Return: Always 0 (Success)
  */
