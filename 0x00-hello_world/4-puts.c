@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  *main - prints a string
  *
  *@void:string to be printed
