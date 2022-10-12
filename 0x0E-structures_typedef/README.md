@@ -1,0 +1,1 @@
+Strucktures typedef
